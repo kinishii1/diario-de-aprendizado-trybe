@@ -11,7 +11,9 @@ Ter um um diário de aprendizagem é também ter a oportunidade de poder **refle
 
 # Diário de aprendizagem de Kin Ishii
 
-![](https://media.giphy.com/media/amrNGnZUeWhZC/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/amrNGnZUeWhZC/giphy.gif" alt="animated" />
+</p>
 
 ## Quem sou eu? 😊
 
@@ -27,7 +29,9 @@ Ter um um diário de aprendizagem é também ter a oportunidade de poder **refle
 
 <!-- Utilize esse espaço para as reflexões e atividades dos checkpoints de aprendizagem ao longo da jornada de soft skills -->
 
-![](https://media.giphy.com/media/jIqh3ym2s7GU/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/jIqh3ym2s7GU/giphy.gif" alt="animated" />
+</p>
 
 | **Tema** |  Por que lidar com as emoções é importante na carreira DEV |
 | :--- | :--- |
