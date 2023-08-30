@@ -9,7 +9,9 @@ Agora você terá um lugar para **registrar, revisitar e compartilhar suas refle
 Ter um um diário de aprendizagem é também ter a oportunidade de poder **refletir sobre sua jornada de aprendizagem, observar sua evolução e identificar oportunidades de desenvolvimento**. Outro ponto importante é que você pode _compartilhar_ seu diário de aprendizagem e _receber feedbacks ou multiplicar_ o seu conhecimento!
 
 
-# Diário de aprendizagem de [coloque seu nome aqui]
+# Diário de aprendizagem de Kin Ishii
+
+![](https://media.giphy.com/media/amrNGnZUeWhZC/giphy.gif)
 
 ## Quem sou eu? 😊
 
