@@ -92,6 +92,11 @@ http://atlasofemotions.org/#introduction/
 
 <!-- Utilize esse espaço à vontade! Não precisa ser apenas para o aprendizado em Soft Skills, faça cópias e crie novas páginas no seu diário de aprendizagem para toda a sua trajetória na Trybe! -->
 
+<p align="center">
+  <img src="https://media.giphy.com/media/AFdcYElkoNAUE/giphy.gif" alt="animated" />
+</p>
+
+
 | **Tema** | Momento Soft Skills - Checkpoint de Aprendizagem I |
 | :--- | :--- |
 | **Área** | Aprendendo a se organizar e estudar - ultima aula da seção |
