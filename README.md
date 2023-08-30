@@ -27,6 +27,8 @@ Ter um um diário de aprendizagem é também ter a oportunidade de poder **refle
 
 <!-- Utilize esse espaço para as reflexões e atividades dos checkpoints de aprendizagem ao longo da jornada de soft skills -->
 
+![](https://media.giphy.com/media/jIqh3ym2s7GU/giphy.gif)
+
 | **Tema** |  Por que lidar com as emoções é importante na carreira DEV |
 | :--- | :--- |
 | **Área** | Aprendendo a se organizar e estudar |
