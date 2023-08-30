@@ -86,8 +86,8 @@ http://atlasofemotions.org/#introduction/
 
 | **Tema** | Momento Soft Skills - Checkpoint de Aprendizagem I |
 | :--- | :--- |
-| **Área** | `[atualizar]` |
-| **Data** | `[atualizar]` |
+| **Área** | Aprendendo a se organizar e estudar - ultima aula da seção |
+| **Data** | 01/09 |
 
 ----
 
