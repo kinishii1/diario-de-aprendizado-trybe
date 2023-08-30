@@ -80,3 +80,67 @@ http://atlasofemotions.org/#introduction/
 
 ----
 
+# Conteúdo Checkpoint de Aprendizagem I
+
+<!-- Utilize esse espaço à vontade! Não precisa ser apenas para o aprendizado em Soft Skills, faça cópias e crie novas páginas no seu diário de aprendizagem para toda a sua trajetória na Trybe! -->
+
+| **Tema** | Momento Soft Skills - Checkpoint de Aprendizagem I |
+| :--- | :--- |
+| **Área** | `[atualizar]` |
+| **Data** | `[atualizar]` |
+
+----
+
+<details open>
+
+<summary> 🧠 Principais aprendizados e insights </summary>
+
+Checkpoints de aprendizagem fornecem avaliações precisas do progresso, identificando lacunas e reforçando o conhecimento. Refinam planos de estudo, priorizando áreas carentes, para um aprendizado eficiente e abrangente.
+
+Refletir sobre minha jornada de desenvolvimento de soft skills tem sido incrivelmente enriquecedor. Ao longo do tempo na Trybe, adquiri habilidades interpessoais valiosas. Vejo diretamente como essas competências são fundamentais para minha futura atuação como pessoa desenvolvedora.
+
+Para aplicar essas habilidades no meu dia a dia na Trybe, pretendo participar ativamente de projetos em grupo, compartilhando ideias e ouvindo perspectivas diversas. Também me esforçarei para fornecer feedback construtivo e aceitar o feedback dos colegas de maneira humilde, visando melhorar constantemente. Além disso, estabelecerei uma comunicação clara e aberta para garantir que todos estejam alinhados.
+
+Quanto à aprendizagem autodirigida, planejo aprofundar meus conhecimentos buscando desafios técnicos além do currículo, como projetos pessoais e estudo independente. Vou explorar recursos online, participar de grupos de discussão e experimentar diferentes abordagens para resolver problemas, visando ampliar minha compreensão e habilidades técnicas.
+
+Meu foco está na contínua incorporação de soft skills na minha trajetória como desenvolvedor, cultivando uma mentalidade de aprendizado e colaboração enquanto me desafio constantemente a expandir minha expertise técnica.
+
+</details>
+
+----
+<details open>
+<summary> 🧬 O que vou passar a fazer diferente/melhor após estudar este conteúdo/tema? </summary>
+
+Após o primeiro período de Soft Skills na Trybe:
+
+- Avalio minhas habilidades e áreas a desenvolver.
+- Identifico minhas particularidades em gerenciar tempo, aprender e auto-liderar.
+- Reconheço a relevância de: Autoliderança, Autodisciplina, Gestão do Tempo, Aprender a aprender e Inteligência Emocional.
+
+</details>
+
+----
+
+<details open>
+<summary> 🤔 Reflexões e entregáveis </summary>
+  
+Como estou me sentindo após o primeiro período de Soft Skills na Trybe? Sei que habilidades preciso desenvolver e quais já possuo como força? 💭
+
+Consegui identificar quais são minhas especificidades em relação à gestão do tempo, processo de aprendizagem e autoliderança? 💭 
+
+Tenho nitidez da importância das habilidades apresentadas durante os momentos desse primeiro período? A saber: 💭
+
+</details>
+
+----
+
+<details open>
+<summary> 📝 Anotações livres </summary>
+
+VAMO QUE VAMO
+
+</details>
+
+----
+
+
