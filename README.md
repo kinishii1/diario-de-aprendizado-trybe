@@ -74,6 +74,7 @@ Quais são os impactos positivos de reconhecer e expressar minhas emoções de m
 <summary> 📝 Anotações livres </summary>
 
 https://www.youtube.com/watch?v=AwxYSQGT734
+
 http://atlasofemotions.org/#introduction/
 </details>
 
