@@ -174,8 +174,6 @@ A linguagem verbal e não verbal afetam a forma como as pessoas percebem você e
 <details open>
 <summary> 🧬 O que vou passar a fazer diferente/melhor após estudar este conteúdo/tema? </summary>
 
-Após o primeiro período de Soft Skills na Trybe:
-
 Ser mais consciente na comunicação verbal e não verbal para garantir que a mensagem que desejo transmitir seja compreendida da maneira desejada.
 
 </details>
