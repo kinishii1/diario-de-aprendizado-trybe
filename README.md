@@ -88,9 +88,6 @@ http://atlasofemotions.org/#introduction/
 
 ----
 
-# Conteúdo Checkpoint de Aprendizagem I
-
-<!-- Utilize esse espaço à vontade! Não precisa ser apenas para o aprendizado em Soft Skills, faça cópias e crie novas páginas no seu diário de aprendizagem para toda a sua trajetória na Trybe! -->
 
 <p align="center">
   <img src="https://media.giphy.com/media/AFdcYElkoNAUE/giphy.gif" alt="animated" />
@@ -155,5 +152,58 @@ VAMO QUE VAMO
 </details>
 
 ----
+
+
+
+| **Tema** | O que é comunicação |
+| :--- | :--- |
+| **Área** | Comunicação e trabalho em equipe |
+| **Data** | 06/09 |
+
+----
+
+<details open>
+
+<summary> 🧠 Principais aprendizados e insights </summary>
+
+A linguagem verbal e não verbal afetam a forma como as pessoas percebem você e a mensagem que está transmitindo. A linguagem não verbal, como gestos, expressões faciais e postura, muitas vezes comunica mais do que as palavras. Certifique-se de que sua linguagem não verbal esteja alinhada com sua mensagem verbal para evitar mal-entendidos. Além disso, o tom de voz, o volume e a velocidade da fala também podem influenciar como sua mensagem é recebida. Um tom de voz calmo e uma fala clara geralmente facilitam uma comunicação eficaz.
+
+</details>
+
+----
+<details open>
+<summary> 🧬 O que vou passar a fazer diferente/melhor após estudar este conteúdo/tema? </summary>
+
+Após o primeiro período de Soft Skills na Trybe:
+
+Ser mais consciente na comunicação verbal e não verbal para garantir que a mensagem que desejo transmitir seja compreendida da maneira desejada.
+
+</details>
+
+----
+
+<details open>
+<summary> 🤔 Reflexões e entregáveis </summary>
+
+  
+Quais barreiras de comunicação você costuma impor nos seus relacionamentos cotidianos?
+Como você adapta sua comunicação para atender às necessidades e estilos de comunicação de diferentes pessoas?
+Como você tem demonstrado empatia e compreensão em suas interações com outras pessoas?
+Como sua linguagem verbal e não verbal afeta a forma como as pessoas te percebem? Qual mensagem você está passando?
+
+
+</details>
+
+----
+
+<details open>
+<summary> 📝 Anotações livres </summary>
+
+VAMO QUE VAMO
+
+</details>
+
+----
+
 
 
